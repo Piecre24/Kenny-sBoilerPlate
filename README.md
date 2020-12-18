@@ -8,11 +8,11 @@ Web design of my CV
 Easier implamentation when creating new projects
 
 ## What does this consist of? 
-Express 
-Node and Nodemon
-Path 
-React
-Redux
-Jest 
-Babel 
+- Express 
+- Node and Nodemon
+- Path 
+- React
+- Redux
+- Jest 
+- Babel 
 
